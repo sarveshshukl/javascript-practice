@@ -1,0 +1,21 @@
+#len {
+  padding-left: 10%;
+  border-radius: 7px;
+  border-color: black;
+  padding: 25px;
+}
+
+#wid {
+  padding-left: 10%;
+  border-color: black;
+  border-radius: 7px;
+  margin-left: 5px;
+  padding: 25px;
+}
+#main {
+  text-align: center;
+}
+#button {
+  padding: 25px;
+  border-radius: 7px;
+}
